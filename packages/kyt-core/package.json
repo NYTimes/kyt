@@ -24,7 +24,7 @@
     "commander": "8.0.0",
     "core-js": "3.15.2",
     "file-loader": "6.2.0",
-    "filesize": "6.4.0",
+    "filesize": "7.0.0",
     "find-babel-config": "1.2.0",
     "gzip-size": "6.0.0",
     "ink": "3.0.8",
