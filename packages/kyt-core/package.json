@@ -29,7 +29,7 @@
     "gzip-size": "6.0.0",
     "ink": "3.0.8",
     "ink-table": "3.0.0",
-    "inquirer": "8.1.1",
+    "inquirer": "8.1.2",
     "install": "0.13.0",
     "jest-message-util": "27.0.6",
     "kyt-runtime": "1.2.43",
